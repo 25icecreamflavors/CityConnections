@@ -9,7 +9,6 @@ import numpy
 import folium
 from folium.plugins import MarkerCluster
 
-
 # Creating dictionary of countires and their codes using our database
 countries = {}
 countries_keys = []
